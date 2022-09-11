@@ -24,7 +24,7 @@
 
 A web app that pulls users data from Github's Api, and sorts users by different criteria.
 
-This app is live here: [Click Here](https://sagar-barapatre.github.io/Github-Users-Finder/)
+This app is live here: [Click Here](https://akd-07.netlify.app/)
 
 ## To set up the project locally:
 
